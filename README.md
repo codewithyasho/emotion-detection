@@ -18,5 +18,5 @@ The model is trained on a labeled text dataset containing various emotions. It p
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/emotion-detector-app.git
-cd emotion-detector-app
+git clone https://github.com/codewithyasho/emotion-detection.git
+cd emotion-detection
