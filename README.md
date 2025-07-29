@@ -20,9 +20,9 @@ The model is trained on a labeled text dataset containing various emotions. It p
 ```bash
 git clone https://github.com/codewithyasho/emotion-detection.git
 cd emotion-detection
+```
 
-
-✅ Technologies Used
+## ✅ Technologies Used
 Python
 
 Scikit-learn
